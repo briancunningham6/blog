@@ -40,16 +40,11 @@
                     </div>
                 <!-- end #socialIcons -->
                 <footer class="">
-                    <!-- begin copyright -->
-					<?php if(of_get_option('veecard_footer_copyright') == '') { ?>
-					Copyright &copy; <?php echo date("Y"); ?> All Rights Reserved  Theme by <a href="http://gk.site5.com/t/570">Site5 WordPress Hosting</a>.
-					<?php } else { ?>
-					<?php echo of_get_option('veecard_footer_copyright')  ?>
-					<?php } ?>
+
 					<!-- end copyright -->
 
 					<!-- Site5 Credits-->
-					<br>Created by <a href="http://www.s5themes.com/">Site5 WordPress Themes</a>. Experts in <a href="http://gk.site5.com/t/570">WordPress Hosting</a>
+					<br>Brian Cunningham <a href="http://www.kseudo.com/">kSeudo.com</a>.
 					<!-- end Site5 Credits-->
                 </footer>
             </div>
