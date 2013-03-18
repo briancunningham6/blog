@@ -1,1 +1,18 @@
 This file was created by JetBrains PhpStorm 6.0 for binding GitHub repository
+
+
+
+  GNU nano 2.2.4                                                       File: /password.txt
+
+The MySQL root password is: gJTo8JGM
+
+Webmin:
+
+http://<serverip>:10000
+
+phpmyadmin:
+
+http://<serverip>/phpmyadmin
+
+
+
